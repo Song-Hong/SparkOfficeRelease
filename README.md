@@ -67,26 +67,23 @@ AI automatically extracts and formats the table.
 
 ## macOS
 
-| Platform | Download |
-|---|---|
-| Apple Silicon (M1/M2/M3) | [Download](../../releases/latest) |
-| Intel Mac | [Download](../../releases/latest) |
+Universal build for:
+- Apple Silicon (M1 / M2 / M3)
+- Intel Macs
+
+👉 [Download Latest Version](../../releases/latest)
 
 ---
 
 ## Windows
 
-| Platform | Download |
-|---|---|
-| Windows x64 | [Download](../../releases/latest) |
+Windows version is coming soon.
 
 ---
 
 ## Linux
 
-| Platform | Download |
-|---|---|
-| AppImage | [Download](../../releases/latest) |
+Linux version is not available yet.
 
 ---
 
@@ -140,4 +137,3 @@ Source code is private.
 <p align="center">
   Built for the AI era.
 </p>
-
