@@ -106,17 +106,6 @@ Latest releases:
 
 ---
 
-# Roadmap
-
-- [ ] Multi-sheet AI memory
-- [ ] AI Formula Generator
-- [ ] Real-time Collaboration
-- [ ] Plugin Marketplace
-- [ ] Cloud Sync
-- [ ] AI Agent Automation
-
----
-
 # Community
 
 Coming soon:
@@ -132,8 +121,3 @@ This repository only contains binary releases.
 
 Source code is private.
 
----
-
-<p align="center">
-  Built for the AI era.
-</p>
