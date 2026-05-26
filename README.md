@@ -1,4 +1,3 @@
-```md
 # SparkOffice
 
 <p align="center">
@@ -141,5 +140,4 @@ Source code is private.
 <p align="center">
   Built for the AI era.
 </p>
-```
 
